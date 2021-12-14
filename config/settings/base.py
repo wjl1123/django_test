@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent
 SECRET_KEY = my_settings.SECRET
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-#ALLOWED_HOSTS = ['52.78.93.108']
+ALLOWED_HOSTS = ['52.78.93.108']
 
 
 # Application definition
