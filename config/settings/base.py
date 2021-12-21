@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'accounts',
     'main_page',
     'photo',
+    'common',
 ]
 
 MIDDLEWARE = [
