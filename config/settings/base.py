@@ -124,8 +124,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = '/'
-<<<<<<< HEAD
-=======
 
 LOGGING = {
     'version': 1,
@@ -188,4 +186,3 @@ LOGGING = {
 }
 
 # https://wikidocs.net/77522 loggin setting reference
->>>>>>> 739222a5a8f2586a29a3d57fec3e4b1cc35f71d4
